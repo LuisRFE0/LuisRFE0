@@ -1,6 +1,6 @@
-<div aling="center">
-  <h1 aling="center">Hola Soy Luis F.</h1>
-</div>
+ <div style="color: aqua;">
+        <h1>Hola </h1>
+    </div>
 
 <!--
 **LuisRFE0/LuisRFE0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
