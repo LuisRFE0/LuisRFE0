@@ -1,4 +1,5 @@
-<div aling="center"><h1 style="text-aling:center;">Hola Soy Luis F.</h1>
+<div aling="center">
+  <h1 aling="center">Hola Soy Luis F.</h1>
 </div>
 
 <!--
