@@ -1,4 +1,4 @@
-<h1 style="margin:0 auto;">Hola Soy Luis F.</h1>
+<h1 style="text-aling:center;">Hola Soy Luis F.</h1>
 
 <!--
 **LuisRFE0/LuisRFE0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
