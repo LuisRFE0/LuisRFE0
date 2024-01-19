@@ -2,6 +2,7 @@
         <h1 color="pink">👀Hola mi nombre es Luis Flores👀</h1>
     </div>
 
+![learning](https://img.shields.io/badge/Autodidacta-8A2BE2)
 <!--
 **LuisRFE0/LuisRFE0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
