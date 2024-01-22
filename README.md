@@ -19,8 +19,9 @@
 </div>
 
 <div align="center">
-
-Proyectos especiales: <br>
+<img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+Proyectos especiales: 
+<img align="center" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 | Colectivo-Cuatro  | SegPI - TecNM                                  |
 | ----------------- |----------------------------------------------- | 
