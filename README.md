@@ -24,7 +24,7 @@ Proyectos especiales: <br>
 
 | Colectivo-Cuatro  | SegPI - TecNM                                  |
 | ----------------- |----------------------------------------------- | 
-|![banner](https://github.com/LuisRFE0/LuisRFE0/blob/main/Desarrollador%20fullstack%20jr.png)||
+|<a href="https://luisrfe0.github.io/Colectivo-Cuatro/index.html" target="_blank"><img src="https://github.com/LuisRFE0/LuisRFE0/blob/main/colect4.png" width="300" alt="proyecto integrador "></a> |<a href="https://luisrfe0.github.io/Colectivo-Cuatro/index.html" target="_blank"> <img src="https://github.com/LuisRFE0/LuisRFE0/blob/main/colect4.png" width="300" alt="proyecto integrador "> |
 
 
 </div>
