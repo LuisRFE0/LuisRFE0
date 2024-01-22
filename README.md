@@ -7,6 +7,9 @@
 ![learning](https://img.shields.io/badge/Comunicación%20acertiva-8A2BE2) <br>
 ![Blogger](https://img.shields.io/badge/JavaScript-F88900?style=for-the-badge&logoColor=white)
 ![CloudBees](https://img.shields.io/badge/SpringBoot-1997B5&?&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-0C0D0D.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 
   </div>
 
