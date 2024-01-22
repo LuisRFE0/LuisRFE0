@@ -17,13 +17,14 @@
 
   </div>
 
-
+<div align="center">
+ 
 | Habilidades blandas             | Habilidades Técnicas                                     | Frameworks                      | Otros                                                                           |
 | ----------------- |----------------------------------------------- | ------------------------------------------------------------|----------------------------------------------------------------------------- |
 | <div align="center">![learning](https://img.shields.io/badge/Autodidacta-8A2BE2)</div> | <div align="center">![Blogger](https://img.shields.io/badge/JavaScript-F88900?style=for-the-badge&logoColor=white)</div>     	| <div align="center">![CloudBees](https://img.shields.io/badge/SpringBoot-1997B5&?&logoColor=white&style=for-the-badge)</div> | <div align="center"> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</div>|
 | <div align="center">![learning](https://img.shields.io/badge/Trabajo%20en%20equipo-8A2BE2)</div>|<div align="center">![MySQL](https://img.shields.io/badge/mysql-0C0D0D.svg?style=for-the-badge&logo=mysql&logoColor=white)</div>|<div align="center">![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)</div>|<div align="center">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</div>|
 
-
+</div>
 <!--
 **LuisRFE0/LuisRFE0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
