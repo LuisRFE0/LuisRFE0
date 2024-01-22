@@ -24,7 +24,8 @@ Proyectos especiales: <br>
 
 | Colectivo-Cuatro  | SegPI - TecNM                                  |
 | ----------------- |----------------------------------------------- | 
-|<a href="https://luisrfe0.github.io/Colectivo-Cuatro/index.html" target="_blank"><img src="https://github.com/LuisRFE0/LuisRFE0/blob/main/colect4.png" width="300" alt="proyecto integrador "></a> |<a href="https://luisrfe0.github.io/Colectivo-Cuatro/index.html" target="_blank"> <img src="https://github.com/LuisRFE0/LuisRFE0/blob/main/colect4.png" width="300" alt="proyecto integrador "> |
+|<a href="https://luisrfe0.github.io/Colectivo-Cuatro/index.html" target="_blank"><img src="https://github.com/LuisRFE0/LuisRFE0/blob/main/colect4.png" width="300" alt="proyecto integrador "></a> |<a href="http://20.122.106.3/" target="_blank"> <img src="https://github.com/LuisRFE0/LuisRFE0/blob/main/segpi.png" width="300" alt="proyecto Practicas profesionales "> |
+|Proyecto integrador para el bootcamp<br> de desarrollador fullstack java 480hrs en <br> Generation México.<br> Ecommerce: Venta de playeras y accesorios<br> de colectivo cuatro.<br> Java, Springboot, Mysql, HTML, JS, CSS <br>y Bootstrap||
 
 
 </div>
