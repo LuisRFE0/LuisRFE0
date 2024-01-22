@@ -1,7 +1,7 @@
  <div align="center">
         <h1 color="pink">👀Hola mi nombre es Luis Flores👀</h1>
   
-![banner](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+![banner](https://github.com/LuisRFE0/LuisRFE0/blob/main/Desarrollador%20fullstack%20jr.png)
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
