@@ -3,7 +3,7 @@
   
 ![banner](https://github.com/LuisRFE0/LuisRFE0/blob/main/Desarrollador%20fullstack%20jr.png)
 
-
+<div align="center">Apasionado por la tecnología web, capaz de adaptarse a diversos planes de trabajo, proactivo, autodidacta, empático y comprometido a cumplir mis obligaciones. Poseo conocimientos técnicos en distintos lenguajes de programación y le tengo amor al aprendizaje para desarrollar mi carrera profesional y contribuir con mi experiencia a la resolución de problemas.</div>
 
 
   </div>
