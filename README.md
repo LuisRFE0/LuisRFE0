@@ -18,7 +18,28 @@
 
 </div>
 
-<div align="center"></div>
+<div align="center">
+
+Proyectos especiales: <br>
+
+| Colectivo-Cuatro  | SegPI - TecNM                                  |
+| ----------------- |----------------------------------------------- | 
+|![banner](https://github.com/LuisRFE0/LuisRFE0/blob/main/Desarrollador%20fullstack%20jr.png)||
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **LuisRFE0/LuisRFE0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
